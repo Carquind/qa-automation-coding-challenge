@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Test Suite">
+    <test name="Verify Search Functionality Test">
+        <classes>
+            <class name="com.challenge.tests.VerifySearchFunctionalityTest" />
+        </classes>
+    </test>
+
+    <test name="Verify UI Elements Test">
+        <classes>
+            <class name="com.challenge.tests.VerifyUIElementsTest" />
+        </classes>
+    </test>
+</suite>
