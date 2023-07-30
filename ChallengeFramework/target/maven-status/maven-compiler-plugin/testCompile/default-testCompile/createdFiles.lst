@@ -1,0 +1,4 @@
+com\challenge\tests\TestRunner.class
+com\challenge\tests\VerifyUIElementsTest.class
+com\challenge\tests\VerifySearchFunctionalityTest.class
+com\challenge\tests\ExtentReportListener.class
